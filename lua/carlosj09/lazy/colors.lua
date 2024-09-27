@@ -13,5 +13,7 @@ return {
         require('rose-pine').setup({
             disable_background = true,
         })
+
+        ColorMyPencils()
     end
 }

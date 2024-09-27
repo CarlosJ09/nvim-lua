@@ -1,4 +1,4 @@
-# CarlosJ09 nvim configuration
+# CarlosJ09 Nvim configuration
 
 This is a repository for my personal settings and configurations for neovim.
 
